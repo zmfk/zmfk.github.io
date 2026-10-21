@@ -27,15 +27,15 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "c524069e95157f6b0f54006d26215bcc"
+    "revision": "bd0a57197573c971dd9918262f40f02e"
   },
   {
     "url": "about/index.html",
-    "revision": "f6f443871695e86d13c1175d45e5a2f2"
+    "revision": "656a45f8d021ebd17be0fca2839c8ea8"
   },
   {
     "url": "archive/index.html",
-    "revision": "1158308c65c3af0ac768901e31cf7909"
+    "revision": "b45b4e05ed88c96165b4bd039b81330e"
   },
   {
     "url": "assets/css/0.styles.8cc5ebe8.css",
@@ -218,6 +218,10 @@ self.__precacheManifest = [
     "revision": "d80507e476ea08c105a11e6b6951af8d"
   },
   {
+    "url": "assets/img/mini-homework-logo.png",
+    "revision": "ea2709564594c9e90b26e02c3c8c99c7"
+  },
+  {
     "url": "assets/img/qq.png",
     "revision": "2d628bccdfb243cf99610cf43b66b883"
   },
@@ -242,28 +246,28 @@ self.__precacheManifest = [
     "revision": "f8160064af70546103cd9e7b9a74b0c4"
   },
   {
-    "url": "assets/js/11.74dc3e86.js",
-    "revision": "5919f6d2ed216136c050cf8dfa5588f3"
+    "url": "assets/js/11.efa2a16c.js",
+    "revision": "de4fa0c7a8c156a2349dbf8cbe35c438"
   },
   {
-    "url": "assets/js/12.b6338ac5.js",
-    "revision": "70381ff8dbb527acf4562bf7f210d35c"
+    "url": "assets/js/12.a34984bb.js",
+    "revision": "e2dda228b84c4ef03f451156f26c5d14"
   },
   {
     "url": "assets/js/13.3b81b380.js",
     "revision": "bea625e6c74d470f161ce175accc6c24"
   },
   {
-    "url": "assets/js/14.1b76418a.js",
-    "revision": "24e95f8b978bd8581597c324347a586b"
+    "url": "assets/js/14.8dc86398.js",
+    "revision": "2b881b225ae9f72a2f832113e46ee573"
   },
   {
     "url": "assets/js/15.85977480.js",
     "revision": "277bed893cd7af28c9749c5a649a39d4"
   },
   {
-    "url": "assets/js/16.186af1ce.js",
-    "revision": "bda9de1487983e309da7db8f11ef1d55"
+    "url": "assets/js/16.5fd142fa.js",
+    "revision": "a9de08bd7af036fde16016aba1c4aae7"
   },
   {
     "url": "assets/js/17.53b45663.js",
@@ -306,20 +310,20 @@ self.__precacheManifest = [
     "revision": "68c249304b0ddce6ba06958fc14828f0"
   },
   {
-    "url": "assets/js/app.7c6cbaae.js",
-    "revision": "585cd8f0a9a01b9dfc505190e3bc8fbe"
+    "url": "assets/js/app.6cb2c83a.js",
+    "revision": "e777aa38b04965bc240a0a1389965e74"
   },
   {
     "url": "category/index.html",
-    "revision": "b661fe289fde4a92120ecdeee8e42506"
+    "revision": "22514370ada9d589a266b763cfbab6f3"
   },
   {
     "url": "category/数据结构与算法/index.html",
-    "revision": "c16fbcfe7fc90c72efa1e9573804f168"
+    "revision": "bf942d9f830c539cfc0ed9c1526ee77b"
   },
   {
     "url": "codes/index.html",
-    "revision": "aeba65754ca58279d1de0a52d6fba1ff"
+    "revision": "db2b568dfd4c9606e1464d48c3c631b1"
   },
   {
     "url": "gallery/data-structure-linked-list-normal.png",
@@ -363,7 +367,7 @@ self.__precacheManifest = [
   },
   {
     "url": "gallery/index.html",
-    "revision": "3572ea8f80f219cc67075fccf116c726"
+    "revision": "be2e2c6d7dd6620dff6ca31cf612761e"
   },
   {
     "url": "gallery/tcp-ip-ipv6-prefix.jpg",
@@ -387,11 +391,11 @@ self.__precacheManifest = [
   },
   {
     "url": "icons/index.html",
-    "revision": "073c5acfe5d1933cef4422544b2db5a2"
+    "revision": "e68dce13ff99ab8a50a26c67efc63e47"
   },
   {
     "url": "index.html",
-    "revision": "aeb8e16cfa97008bbf41a1a5d61e10e9"
+    "revision": "cbdef53ee74e97e4b876787f5e1210db"
   },
   {
     "url": "live2d/z16/assets/moc/z16.1024/texture_00.png",
@@ -407,47 +411,47 @@ self.__precacheManifest = [
   },
   {
     "url": "post/a054300f3b4002e7ee9b1cb2a9a38130/index.html",
-    "revision": "d536dad9d553d106657e01e4647704fd"
+    "revision": "0bf453bf0eafb7d63b89b6aa693fd747"
   },
   {
     "url": "post/ab7c252be1b1245460152938385d6910/index.html",
-    "revision": "c87eb0596ce38fc0084e1270453267da"
+    "revision": "346c66030929af72c89808d67cc01d71"
   },
   {
     "url": "post/d2d79ef3285fc02533ff582e2129efa2/index.html",
-    "revision": "2629ddc7c0a4fc32929612bef6200573"
+    "revision": "20c0b30c4d8afba339a3e663bdece40f"
   },
   {
     "url": "records/index.html",
-    "revision": "85678f7140f757d8cac5de7c791df1bf"
+    "revision": "f39e04cbc75789f834341ba903095214"
   },
   {
     "url": "tag/Big O/index.html",
-    "revision": "8673cc7c57226359893daaba902d2e11"
+    "revision": "51bd27f63d1dcebc6cd12ad0c818c303"
   },
   {
     "url": "tag/index.html",
-    "revision": "b082ebe1972386e80d21aed187dd6f26"
+    "revision": "3a18fccf50de856e5ddb88cfbda1183d"
   },
   {
     "url": "tag/List/index.html",
-    "revision": "a9b013842c65abf474a0c690c52b9fd4"
+    "revision": "0e7167b76867e2be6e3cb1526a72e7be"
   },
   {
     "url": "tag/Queue/index.html",
-    "revision": "1aafd3b3988361eca8457885303e368e"
+    "revision": "12279e5824de0c09294368971d1036c0"
   },
   {
     "url": "tag/Stack/index.html",
-    "revision": "7c9b1773fad4947e8c5fa2888889bc9c"
+    "revision": "838337ca399de07437ca5965e2f4b212"
   },
   {
     "url": "tag/基础/index.html",
-    "revision": "b5a694c8bc01c0681f27c40c26439f24"
+    "revision": "102125f8306538140403b188fda9543a"
   },
   {
     "url": "tag/线性表/index.html",
-    "revision": "e50be146a24ba3cbee0cc3fad45be5db"
+    "revision": "b37d9988e8f623d2bf05a0c5b3a11711"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
