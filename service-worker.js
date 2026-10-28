@@ -27,19 +27,19 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "b546e49d3e23ff370b51a3fc99874742"
+    "revision": "cf74748ed013cc1f7e04eaf9734bcf8f"
   },
   {
     "url": "about/index.html",
-    "revision": "b550d6e5c5b20987e92b533f21f89639"
+    "revision": "c961ae0053e2561d2d865ee83a0b2a50"
   },
   {
     "url": "archive/index.html",
-    "revision": "d5d4f2aff912b1ad92523f91dd80da20"
+    "revision": "710ba17df5c7db1d30b6ad5a7ccd2258"
   },
   {
-    "url": "assets/css/0.styles.8cc5ebe8.css",
-    "revision": "a200d3b29f1a17f64ae3c64934ce3eea"
+    "url": "assets/css/0.styles.a14e85d7.css",
+    "revision": "7bcce407b1ae5093ef4bdffff8244587"
   },
   {
     "url": "assets/fonts/fa-brands-400.8300bd7f.ttf",
@@ -246,28 +246,28 @@ self.__precacheManifest = [
     "revision": "f8160064af70546103cd9e7b9a74b0c4"
   },
   {
-    "url": "assets/js/11.74dc3e86.js",
-    "revision": "5919f6d2ed216136c050cf8dfa5588f3"
+    "url": "assets/js/11.771a6193.js",
+    "revision": "4f46ca22d07c43ab10ecd0ee62cebe50"
   },
   {
     "url": "assets/js/12.b6338ac5.js",
     "revision": "70381ff8dbb527acf4562bf7f210d35c"
   },
   {
-    "url": "assets/js/13.3b81b380.js",
-    "revision": "bea625e6c74d470f161ce175accc6c24"
+    "url": "assets/js/13.d25560a2.js",
+    "revision": "a0daff23318fd2772accfeaec556c8f8"
   },
   {
-    "url": "assets/js/14.1b76418a.js",
-    "revision": "24e95f8b978bd8581597c324347a586b"
+    "url": "assets/js/14.8dc86398.js",
+    "revision": "2b881b225ae9f72a2f832113e46ee573"
   },
   {
-    "url": "assets/js/15.85977480.js",
-    "revision": "277bed893cd7af28c9749c5a649a39d4"
+    "url": "assets/js/15.e2223d8a.js",
+    "revision": "5e8f0c48a73b512b85c29ffc0a28ba72"
   },
   {
-    "url": "assets/js/16.186af1ce.js",
-    "revision": "bda9de1487983e309da7db8f11ef1d55"
+    "url": "assets/js/16.90328a2b.js",
+    "revision": "ef3b71e037c1bc00737a97f54a5149c7"
   },
   {
     "url": "assets/js/17.53b45663.js",
@@ -278,8 +278,8 @@ self.__precacheManifest = [
     "revision": "5b81237e69c7b980c9b0a116dc1fa91d"
   },
   {
-    "url": "assets/js/2.c137ba64.js",
-    "revision": "3a1583a104f24b4bd502d71c1f67c945"
+    "url": "assets/js/2.07864711.js",
+    "revision": "57cc2d4d90049f6243948b9bf64cf227"
   },
   {
     "url": "assets/js/3.55c75786.js",
@@ -298,32 +298,32 @@ self.__precacheManifest = [
     "revision": "958e62293faac3f80d6271a59b944f23"
   },
   {
-    "url": "assets/js/7.5d5b7163.js",
-    "revision": "be8fee9b525b6cad040f710e36a6361e"
+    "url": "assets/js/7.fbfc6e10.js",
+    "revision": "5ae79a0725a1bf4abd1d166cf3985311"
   },
   {
-    "url": "assets/js/8.75343413.js",
-    "revision": "bdf93907e8a20a5f8ba8c3a298da912b"
+    "url": "assets/js/8.b8f2ed52.js",
+    "revision": "324be19188ea3cd776439dff70946f60"
   },
   {
     "url": "assets/js/9.fb6fe94a.js",
     "revision": "68c249304b0ddce6ba06958fc14828f0"
   },
   {
-    "url": "assets/js/app.33a3376c.js",
-    "revision": "9e8d349acf19963f0e2e3ed12931c5e1"
+    "url": "assets/js/app.71be5773.js",
+    "revision": "080696debe80fcc83595236efad2dbf7"
   },
   {
     "url": "category/index.html",
-    "revision": "f83812b8b2b51c01f8db1d29f614e530"
+    "revision": "338ab340d2d35f226ec683c0e1cf3c46"
   },
   {
     "url": "category/数据结构与算法/index.html",
-    "revision": "2080e0f9999bdbda26c177ab2bd6f50a"
+    "revision": "57ab80c48ccb057f837da7a8d1c5cdb6"
   },
   {
     "url": "codes/index.html",
-    "revision": "29dfaf593c2f0129e3fa523844d80ab2"
+    "revision": "50ab4148d3c53ae78fab08cb81b4ab34"
   },
   {
     "url": "gallery/data-structure-linked-list-normal.png",
@@ -367,7 +367,7 @@ self.__precacheManifest = [
   },
   {
     "url": "gallery/index.html",
-    "revision": "2d5fef0c87b55f6dc4c4908ac4a3c7bb"
+    "revision": "b06e2410a37b7349fa2b370f6f263283"
   },
   {
     "url": "gallery/tcp-ip-ipv6-prefix.jpg",
@@ -391,11 +391,11 @@ self.__precacheManifest = [
   },
   {
     "url": "icons/index.html",
-    "revision": "3318a0e86a692d655d248381db1f6cf7"
+    "revision": "deb685769180c90db633cca7d956bca6"
   },
   {
     "url": "index.html",
-    "revision": "0ef0d1cec97d200b6c79d3ac17612fbc"
+    "revision": "feb141d218ccc866ae4fee8ad95676a1"
   },
   {
     "url": "live2d/z16/assets/moc/z16.1024/texture_00.png",
@@ -411,47 +411,47 @@ self.__precacheManifest = [
   },
   {
     "url": "post/a054300f3b4002e7ee9b1cb2a9a38130/index.html",
-    "revision": "7fc239d25eddc62c88ff4d10fa5b9be3"
+    "revision": "a6415a6ba0329ad9e804658f4e113b4b"
   },
   {
     "url": "post/ab7c252be1b1245460152938385d6910/index.html",
-    "revision": "aba9d724c7ec01b75408f7174d738aa9"
+    "revision": "44e3df5e2b16f79e03ba47d6b10701f1"
   },
   {
     "url": "post/d2d79ef3285fc02533ff582e2129efa2/index.html",
-    "revision": "dee1458efd484049a6fcf594285b8631"
+    "revision": "152db2ac3ed88af91d2b58bb8d3b1a3b"
   },
   {
     "url": "records/index.html",
-    "revision": "056e8a530fd2eca0b9efeba975c748f8"
+    "revision": "9e7e97237c177d6426ddbea54276c738"
   },
   {
     "url": "tag/Big O/index.html",
-    "revision": "6bae225a5ab00fbba7e2381e773c5246"
+    "revision": "d8f05e4e34fc68ceb7dad4faab2bfef7"
   },
   {
     "url": "tag/index.html",
-    "revision": "0fc2fbd6bece8152c253cf3bdbddabce"
+    "revision": "a3a7b4ef19879e60cf773d1944d182b4"
   },
   {
     "url": "tag/List/index.html",
-    "revision": "c75197ed469b11486a5834b950723115"
+    "revision": "cd103106b32a5444f7ba6939e9bc1880"
   },
   {
     "url": "tag/Queue/index.html",
-    "revision": "70d3d6a302d931822b67544a58b7c3b2"
+    "revision": "4517ab14ccebb77e21992d1fdca37bba"
   },
   {
     "url": "tag/Stack/index.html",
-    "revision": "e0687292e5ceb5fb02816622ca4e11c2"
+    "revision": "ff49271243a7b4f848fc5bb2195dd93c"
   },
   {
     "url": "tag/基础/index.html",
-    "revision": "2be4067d9209dc9e7c6fd9032b6199cf"
+    "revision": "8c36e39fbd476678dac62a5b85f6c37b"
   },
   {
     "url": "tag/线性表/index.html",
-    "revision": "1814a146dd9e31e23ae2d5e3c64f85b6"
+    "revision": "2e5436fd6ad121b814fe9d62c9a63875"
   },
   {
     "url": "zmfk.png",
